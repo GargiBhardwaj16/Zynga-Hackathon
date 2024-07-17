@@ -23,12 +23,12 @@ Develop an algorithm that can:
 
 🎮 [Willy Wonka Slots](https://play.google.com/store/apps/details?id=com.zynga.wonka&hl=en_IN&pli=1)
 
-### Data Sets
+## Data Sets
 
 - **Sets 1 to 7**: Each set contains 3 images - `Image.png` (Main Image), `Test1.png` (Test Image 1), `Test2.png` (Test Image 2).
 - **Sets 8 and 9**: Each set contains 2 images - `Test1.png` (Test Image 1), `Test2.png` (Test Image 2).
 
-### Input Format
+## Input Format
 
 - **Sets 1 to 7**: 
   - Return similarity percentages: `[percentage_for_test1, percentage_for_test2]`.
@@ -60,11 +60,11 @@ The `Problems` folder contains all the sets:
 3. Install the required packages:
    ```bash
    pip install -r requirements.txt
-### Usage
+## Usage
 Place your images in the Problems folder.
 
 Check the output for similarity percentages, total win amounts, and bet amounts as per the sets.
-### 🧠 Algorithm Approach
+## 🧠 Algorithm Approach
 
 
 1. Feature Extraction: Use techniques like SIFT, SURF, or deep learning-based feature extractors.
@@ -73,13 +73,13 @@ Check the output for similarity percentages, total win amounts, and bet amounts 
 4. Contextual Analysis: Extend the model to recognize text and numerical values in specified regions for Sets 8 and 9.
 
 
-### 🤝 Contributing
+## 🤝 Contributing
 We welcome contributions to enhance the accuracy and efficiency of the algorithm. Feel free to fork the repository, make your changes, and submit a pull request.
 
-### 📜 License
+## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-### 🙏 Acknowledgments
+## 🙏 Acknowledgments
 Inspired by the image matching challenges in computer vision.
 Special thanks to the creators of Willy Wonka Slots for providing the game scenes.
 Let's match those images with precision and efficiency! 🎮🔍
