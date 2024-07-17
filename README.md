@@ -84,4 +84,5 @@ Inspired by the image matching challenges in computer vision.
 Special thanks to the creators of Willy Wonka Slots for providing the game scenes.
 Let's match those images with precision and efficiency! 🎮🔍
 
-Note: For detailed information on the implementation, please refer to the Documentation section.
+## Note 
+For detailed information on the implementation, please refer to the Documentation section.
